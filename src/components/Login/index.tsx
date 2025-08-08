@@ -16,7 +16,8 @@ import useSWR from 'swr';
 
 const messages = defineMessages({
   signin: 'Sign In',
-  signinheader: 'Sign in to continue',
+#  signinheader: 'Sign in to continue',
+  signinheafer: 'Jellyseerr is replacing this, https://jellyfin.zinc-x.com',
   signinwithplex: 'Use your Plex account',
   signinwithoverseerr: 'Use your {applicationTitle} account',
 });
